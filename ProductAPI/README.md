@@ -54,6 +54,12 @@ DNS your domain name(IP address) and port number
 API information available in swagger document  "http://localhost:8080/rest-springboot/swagger-ui.html"
 *Note : Change DNS name to server DNS
 
+# build instructions
+gradlew build
+
+# run application
+gradle bootrun
+
 
 ## Contributors
 Tanya Simhadri
